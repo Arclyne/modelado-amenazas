@@ -1,7 +1,7 @@
 {
   "version": "2.6.2",
   "release_version": "1.0",
-  "released_at": "",
+  "released_at": "2026-09-08",
   "summary": {
     "title": "Sitio web de la biblioteca universitaria",
     "owner": "Angel Gabriel Aguilar Hernadez",
@@ -9,7 +9,14 @@
     "id": 0
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "Lorena Rojas"
+      },
+      {
+        "name": "Roberto Ochoa"
+      }
+    ],
     "diagrams": [
       {
         "id": 0,
@@ -22,7 +29,7 @@
         "description": ""
       }
     ],
-    "diagramTop": 1,
+    "diagramTop": 2,
     "reviewer": "Guillermo Vera",
     "threatTop": 0
   }
